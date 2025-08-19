@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as p
 
 # Load the CSV file
 df = pd.read_csv("ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv")
